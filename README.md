@@ -1,9 +1,5 @@
-### Hi there 👋
+Hi I am Laxmi 👋
 
-<!--
-**Laxmirauth/Laxmirauth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java and JavaScript projects.
 - 🌱 I’m currently learning React
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  hey.laxmirauth@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I ❤️ Making HandCrafts. 
--->
+
