@@ -3,6 +3,7 @@ Hi I am Laxmi 👋
 
 - 🔭 I’m currently working on Java and JavaScript projects.
 - 🌱 I’m currently learning React
+- ⚡  5 Star on Hackerrank [ Java & JavaScript ] 
 - 👯 I’m looking to collaborate on LinkedIn
 - 🤔 I’m looking for help with competitive Programming [Java, JavaScript]
 - 💬 Ask me about Java Programming
