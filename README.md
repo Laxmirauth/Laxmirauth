@@ -1,6 +1,5 @@
 Hi I am Laxmi 👋
-- A Java Full Stack Developer with expertise in Rest APIs, Microservices, and AWS. My passion lies in building robust platform, and contributing to open source.
-- I thrive on exploring cutting-edge technologies and am enthusiastic about sharing my acquired knowledge with others. Presently, I am learning MERN Stack and actively looking to contribute in open source projects.
+A Java Full Stack Developer with expertise in Rest APIs, Microservices, and AWS. My passion lies in building robust platform, and contributing to open source. I thrive on exploring cutting-edge technologies and am enthusiastic about sharing my acquired knowledge with others. Presently, I am learning MERN Stack and actively looking to contribute in open source projects.
 
 - 🔭 I’m currently working on Java Full Stack projects.
 - 🌱 I’m currently learning MERN Stack
